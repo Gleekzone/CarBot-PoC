@@ -13,7 +13,6 @@ from app.config import Config
 @tool
 def value_prop_rag_tool(query: str) -> Dict:
     """Tool for retrieving value propositions using RAG (Retrieval-Augmented Generation)."""
-    # This code is used because the website have a block to prevent scraping
     user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0 Safari/537.36" # This can be customized as needed
     session = requests.Session()
     session.headers.update({"User-Agent": user_agent})
