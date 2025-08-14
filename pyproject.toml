@@ -1,0 +1,35 @@
+[tool.poetry]
+name = "ai-agent"
+version = "0.1.0"
+description = "An agent that acts as a commercial sales agent"
+authors = ["Glen Lp lccbrokha@gmail.com"]
+
+
+readme = "README.md"
+packages = [{ include = "app" }]
+
+
+[tool.poetry.dependencies]
+python = ">=3.10,<3.14"
+flask = "^3.0.0"
+twilio = "^9.0.0"
+ngrok = "1.4.0"
+langchain = "0.2.0"
+openai = "^1.0.0"
+awscli = "^1.29.0"
+pandas = "^2.2.3"
+sentence-transformers = "^4.1.0"
+faiss-cpu = "^1.11.0"
+langchain-core = "0.2.38"
+langchain-community = "0.2.0"
+dotenv = "^0.9.9"
+beautifulsoup4 = "^4.13.4"
+arize-phoenix-otel = "^0.10.1"
+openinference-instrumentation-langchain = "^0.1.43"
+
+[tool.poetry.group.test.dependencies]
+pytest = "^8.2.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

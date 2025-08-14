@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AutoNova - Branches in Autonia</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header>
+    <h1>AutoNova</h1>
+    <p>Buy and sell certified used cars with confidence in Autonia</p>
+</header>
+
+<div class="container">
+
+    <section class="branch">
+        <h2>AutoNova Central</h2>
+        <p><strong>Address:</strong> 120 Liberty Ave, Downtown, Capital City, Autonia</p>
+        <p><strong>Hours:</strong> Monday to Friday: 9:00 am – 7:00 pm | Saturday: 9:00 am – 5:00 pm | Sunday: Closed</p>
+        <p><strong>Phone:</strong> +500 123 4567</p>
+        <p><strong>Services:</strong></p>
+        <ul>
+            <li>Buy and sell certified used cars</li>
+            <li>Instant financing</li>
+            <li>On-the-spot car valuation</li>
+        </ul>
+        <p><strong>Featured inventory:</strong> Economy sedans, family SUVs</p>
+    </section>
+
+    <section class="branch">
+        <h2>AutoNova North</h2>
+        <p><strong>Address:</strong> National Highway Km 15, North Zone, Capital City, Autonia</p>
+        <p><strong>Hours:</strong> Monday to Friday: 8:30 am – 6:30 pm | Saturday: 9:00 am – 4:00 pm | Sunday: Closed</p>
+        <p><strong>Phone:</strong> +500 234 5678</p>
+        <p><strong>Services:</strong></p>
+        <ul>
+            <li>Luxury and sports cars</li>
+            <li>Flexible financing plans</li>
+            <li>Home delivery available</li>
+        </ul>
+        <p><strong>Featured inventory:</strong> Sports coupes, premium pickups</p>
+    </section>
+
+    <section class="branch">
+        <h2>AutoNova South</h2>
+        <p><strong>Address:</strong> 450 Horizon Blvd, Vista Alegre, Sun City, Autonia</p>
+        <p><strong>Hours:</strong> Monday to Friday: 9:00 am – 6:00 pm | Saturday: 9:00 am – 3:00 pm | Sunday: Closed</p>
+        <p><strong>Phone:</strong> +500 345 6789</p>
+        <p><strong>Services:</strong></p>
+        <ul>
+            <li>Secure online purchase</li>
+            <li>12-month warranty on selected cars</li>
+            <li>Certified maintenance workshop</li>
+        </ul>
+        <p><strong>Featured inventory:</strong> Hatchbacks, hybrid SUVs</p>
+    </section>
+
+    <section class="services">
+        <h2>Additional Services</h2>
+        <ul>
+            <li>Extended warranty up to 2 years</li>
+            <li>Home test drive available</li>
+            <li>100% secure online purchase</li>
+        </ul>
+    </section>
+
+</div>
+
+<footer>
+    <p>📞 Contact us: +500 123 4567 | ✉️ Email: <a href="ma
